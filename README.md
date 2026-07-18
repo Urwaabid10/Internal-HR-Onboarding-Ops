@@ -1,4 +1,9 @@
 # Staff Onboarding Automation System (Marketing Agency Operations)
+## Demo
+
+A short walkthrough of the system is available below:
+
+ [Click here to watch the demo](https://drive.google.com/file/d/1q9VIiEphunnspgGd3wIuUxDYpWbhXR0j/view?usp=drive_link)
 
 ## Overview
 
